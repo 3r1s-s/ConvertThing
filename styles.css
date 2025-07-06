@@ -243,6 +243,14 @@ a.inherit {
     background-color: var(--blue-200);
 }
 
+#copy {
+    background-color: var(--green-100);
+}
+
+#copy:hover {
+    background-color: var(--green-200);
+}
+
 #back {
     background-color: var(--red-100);
 }

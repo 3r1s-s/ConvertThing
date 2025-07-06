@@ -70,7 +70,6 @@ function mainPage() {
             img.src = reader.result;
         };
         
-
         reader.readAsDataURL(selectedFile);
     });
 }
